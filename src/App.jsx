@@ -19,7 +19,9 @@ function App() {
     }
 
     try {
-      const response = await fetch("https://api.adviceslip.com/advice");
+      const response = await fetch("https://api.adviceslip.com/advice", {
+        cache: "no-cache",
+      });
       const data = await response.json();
       setAdvice(data.slip.advice);
       setAdviceNumber(data.slip.id);
