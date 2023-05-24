@@ -21,13 +21,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./screenshot.jpg)
-![Mobile](./screenshot.jpg)
+![Desktop](https://drive.google.com/uc?export=view&id=1Vk_Ve3Hu4wZmiXhm1sMy7BxzmdAPMKj3)
+![Mobile](https://drive.google.com/uc?export=view&id=1gZRhU9RmfGZviJssX0n8fbi8XCkrVfjJ)
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Demarcus11/Advice-Generator-App.git)
+- Live Site URL: [Live](https://demarcus11.github.io/Advice-Generator-App/)
 
 ## My process
 
